@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aryan-Haque017
+- 👋 I’m @Aryan-Haque017
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
